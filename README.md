@@ -60,17 +60,12 @@ A **Decision Tree Classifier** is used due to its interpretability and effective
 1. **Data Preprocessing**:
    - Handling categorical features (label encoding / one-hot encoding)
    - Dealing with missing values
-   - Feature scaling (if necessary)
 
 2. **Model Training**:
    - Train/Test split (e.g., 80/20)
    - Fit Decision Tree Classifier
 
 3. **Evaluation**:
-   - Accuracy, Precision, Recall, F1-score
+   - Accuracy
    - Confusion Matrix
    - Feature Importance Visualization
-
----
-
-## 📊 Results
