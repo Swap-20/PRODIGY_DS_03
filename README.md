@@ -74,5 +74,3 @@ A **Decision Tree Classifier** is used due to its interpretability and effective
 ---
 
 ## 📊 Results
-
-The model achieved promising performance on the test set, showing potential for real-world marketing use cases. Further tuning and testing with ensemble methods (e.g., Random Forests) are possible for improved accuracy.
